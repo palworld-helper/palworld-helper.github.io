@@ -1,0 +1,10 @@
+.app {
+    padding: 10px;
+    border: 1px solid darkgray;
+
+    border-radius: 20px;
+
+    width: fit-content;
+
+    background-color: rgba(248, 248, 255, 0.58);
+}
